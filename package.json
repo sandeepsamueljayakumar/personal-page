@@ -1,0 +1,12 @@
+{
+  "name": "sandeep-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive portfolio website for Sandeep Samuel Jayakumar",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=8000"
+  },
+  "keywords": ["portfolio", "web", "interactive"],
+  "author": "Sandeep Samuel Jayakumar",
+  "license": "MIT"
+}
